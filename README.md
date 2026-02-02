@@ -1,6 +1,15 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
+<div class="bg-white rounded-xl shadow p-8 text-center">
+      <h1 class="text-3xl font-bold text-gray-900">Bomene Perry Sakwe</h1>
+      <p class="text-lg text-blue-600 mt-2">Web Developer | University Student</p>
+      <p class="mt-4 text-gray-600">
+        I am a university student learning web development, skilled in HTML, CSS, and JavaScript.
+        I studied in India at SVIET College and I am passionate about building functional and responsive websites.
+      </p>
+      <p class="mt-2 text-sm text-gray-500">📍 India</p>
+    </div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
