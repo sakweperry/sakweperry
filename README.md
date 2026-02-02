@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi 👋, I'm Bomene Perry Sakwe
 
-<!--
-**sakweperry/sakweperry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Web Developer | University Student
 
-Here are some ideas to get you started:
+My name is **Bomene Perry Sakwe**. I am a university student learning **web development**, skilled in **HTML, CSS, and JavaScript**.  
+I studied in **India** at **SVIET College**, and I am passionate about building **functional, responsive, and user-friendly websites**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Location: **India**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Languages
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
+
+### ⚙️ Frameworks & Libraries
+- React  
+- Tailwind CSS  
+- Bootstrap  
+
+### 🧰 Tools
+- Git  
+- GitHub  
+- Visual Studio Code  
+- Figma  
+
+---
+
+## 🎓 Education
+**Bachelor of Computer Application (BCA)**  
+Swami Vivekanand Group of Institutes (SVIET), India  
+📅 **2024 – 2027**
+
+---
+
+## 🎯 Current Focus
+- 📘 Learning advanced JavaScript and React  
+- 🏗️ Building real-world web applications  
+- 🎨 Improving responsive design and UI/UX skills  
+
+---
+
+## 🚀 Projects
+
+### 🔹 PerryFinder
+**Description:**  
+PerryFinder is a web application that connects users with workers, making it easier to find and offer services efficiently.
+
+🔗 **GitHub Repository:**  
+https://github.com/sakweperry/Perry-f.git
+
+---
+
+## 📫 Contact & Links
+- 📧 Email: **sakweperry321@gmail.com**  
+- 💼 LinkedIn: **Sakwe Perry**  
+- 🌐 Portfolio: *Coming soon*  
+- 🐦 Twitter / X: *Coming soon*  
+- 💬 WhatsApp: *Available on request*
+
+---
+
+⭐ *Thank you for visiting my GitHub profile. Feel free to explore my projects and connect with me!*  
