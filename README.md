@@ -1,6 +1,3 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
 
  <div class="bg-white rounded-xl shadow p-8 text-center">
       <h1 class="text-3xl font-bold text-gray-900">Bomene Perry Sakwe</h1>
@@ -11,6 +8,90 @@
       </p>
       <p class="mt-2 text-sm text-gray-500">📍 India</p>
     </div>
+
+ <!-- Skills -->
+    <div class="mt-8 grid md:grid-cols-3 gap-6">
+
+      <!-- Languages -->
+      <div class="bg-white rounded-xl shadow p-6">
+        <h2 class="text-xl font-semibold mb-4">🌐 Languages</h2>
+        <ul class="space-y-2 text-gray-700">
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>JavaScript (ES6+)</li>
+        </ul>
+      </div>
+
+      <!-- Frameworks -->
+      <div class="bg-white rounded-xl shadow p-6">
+        <h2 class="text-xl font-semibold mb-4">⚙️ Frameworks</h2>
+        <ul class="space-y-2 text-gray-700">
+          <li>React</li>
+          <li>Tailwind CSS</li>
+          <li>Bootstrap</li>
+        </ul>
+      </div>
+
+      <!-- Tools -->
+      <div class="bg-white rounded-xl shadow p-6">
+        <h2 class="text-xl font-semibold mb-4">🧰 Tools</h2>
+        <ul class="space-y-2 text-gray-700">
+          <li>Git</li>
+          <li>GitHub</li>
+          <li>VS Code</li>
+          <li>Figma</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- Education -->
+    <div class="mt-8 bg-white rounded-xl shadow p-6">
+      <h2 class="text-xl font-semibold mb-2">🎓 Education</h2>
+      <p class="font-medium">Bachelor of Computer Application (BCA)</p>
+      <p class="text-gray-600">Swami Vivekanand Group of Institutes (SVIET), India</p>
+      <p class="text-sm text-gray-500">2024 – 2027</p>
+    </div>
+
+    <!-- Current Focus -->
+    <div class="mt-8 bg-white rounded-xl shadow p-6">
+      <h2 class="text-xl font-semibold mb-4">🎯 Current Focus</h2>
+      <ul class="list-disc list-inside text-gray-700 space-y-2">
+        <li>Learning advanced JavaScript and React</li>
+        <li>Building real-world web applications</li>
+        <li>Improving responsive design and UI/UX skills</li>
+      </ul>
+    </div>
+
+    <!-- Projects -->
+    <div class="mt-8 bg-white rounded-xl shadow p-6">
+      <h2 class="text-xl font-semibold mb-4">🚀 Projects</h2>
+
+      <div class="border rounded-lg p-4 hover:shadow transition">
+        <h3 class="text-lg font-bold">PerryFinder</h3>
+        <p class="text-gray-600 mt-2">
+          A web application that connects users with workers, making it easier to find and offer services.
+        </p>
+        <a
+          href="https://github.com/sakweperry/Perry-f.git"
+          target="_blank"
+          class="inline-block mt-3 text-blue-600 hover:underline"
+        >
+          View on GitHub →
+        </a>
+      </div>
+    </div>
+
+    <!-- Contact -->
+    <div class="mt-8 bg-white rounded-xl shadow p-6 text-center">
+      <h2 class="text-xl font-semibold mb-4">📫 Contact</h2>
+      <p>Email: <span class="font-medium">sakweperry321@gmail.com</span></p>
+      <p>LinkedIn: <span class="font-medium">Sakwe Perry</span></p>
+      <p class="text-sm text-gray-500 mt-2">Portfolio & Twitter: Coming soon</p>
+    </div>
+
+  </div>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
