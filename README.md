@@ -18,6 +18,54 @@
           <li>JavaScript (ES6+)</li>
         </ul>
       </div>
+      <div class="bg-white rounded-xl shadow p-6">
+        <h2 class="text-xl font-semibold mb-4">⚙️ Frameworks</h2>
+        <ul class="space-y-2 text-gray-700">
+          <li>React</li>
+          <li>Tailwind CSS</li>
+          <li>Bootstrap</li>
+        </ul>
+      </div>
+<div class="bg-white rounded-xl shadow p-6">
+        <h2 class="text-xl font-semibold mb-4">🧰 Tools</h2>
+        <ul class="space-y-2 text-gray-700">
+          <li>Git</li>
+          <li>GitHub</li>
+          <li>VS Code</li>
+          <li>Figma</li>
+        </ul>
+      </div>
+       <div class="mt-8 bg-white rounded-xl shadow p-6">
+      <h2 class="text-xl font-semibold mb-2">🎓 Education</h2>
+      <p class="font-medium">Bachelor of Computer Application (BCA)</p>
+      <p class="text-gray-600">Swami Vivekanand Group of Institutes (SVIET), India</p>
+      <p class="text-sm text-gray-500">2024 – 2027</p>
+    </div>
+    <div class="mt-8 bg-white rounded-xl shadow p-6">
+      <h2 class="text-xl font-semibold mb-4">🎯 Current Focus</h2>
+      <ul class="list-disc list-inside text-gray-700 space-y-2">
+        <li>Learning advanced JavaScript and React</li>
+        <li>Building real-world web applications</li>
+        <li>Improving responsive design and UI/UX skills</li>
+      </ul>
+    </div>
+    <div class="mt-8 bg-white rounded-xl shadow p-6">
+      <h2 class="text-xl font-semibold mb-4">🚀 Projects</h2>
+
+      <div class="border rounded-lg p-4 hover:shadow transition">
+        <h3 class="text-lg font-bold">PerryFinder</h3>
+        <p class="text-gray-600 mt-2">
+          A web application that connects users with workers, making it easier to find and offer services.
+        </p>
+        <a
+          href="https://github.com/sakweperry/Perry-f.git"
+          target="_blank"
+          class="inline-block mt-3 text-blue-600 hover:underline"
+        >
+          View on GitHub →
+        </a>
+      </div>
+    </div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
