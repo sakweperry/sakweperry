@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-<div class="bg-blue-600 text-white rounded-xl shadow p-8 text-center">
+<div class="bg-white rounded-xl shadow p-8 text-center">
       <h1 class="text-3xl font-bold text-gray-900">Bomene Perry Sakwe</h1>
       <p class="text-lg text-blue-600 mt-2">Web Developer | University Student</p>
       <p class="mt-4 text-gray-600">
@@ -10,6 +10,14 @@
       </p>
       <p class="mt-2 text-sm text-gray-500">📍 India</p>
     </div>
+     <div class="bg-white rounded-xl shadow p-6">
+        <h2 class="text-xl font-semibold mb-4">🌐 Languages</h2>
+        <ul class="space-y-2 text-gray-700">
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>JavaScript (ES6+)</li>
+        </ul>
+      </div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
