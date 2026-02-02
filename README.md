@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-<div class="bg-white rounded-xl shadow p-8 text-center">
+<div class="bg-blue-600 text-white rounded-xl shadow p-8 text-center">
       <h1 class="text-3xl font-bold text-gray-900">Bomene Perry Sakwe</h1>
       <p class="text-lg text-blue-600 mt-2">Web Developer | University Student</p>
       <p class="mt-4 text-gray-600">
