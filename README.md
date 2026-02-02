@@ -61,7 +61,12 @@
         >
           View on GitHub →
         </a>
-   
+    <div class="mt-8 bg-white rounded-xl shadow p-6 text-center">
+      <h2 class="text-xl font-semibold mb-4">📫 Contact</h2>
+      <p>Email: <span class="font-medium">sakweperry321@gmail.com</span></p>
+      <p>LinkedIn: <span class="font-medium">Sakwe Perry</span></p>
+      <p class="text-sm text-gray-500 mt-2">Portfolio & Twitter: Coming soon</p>
+    </div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
