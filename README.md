@@ -49,23 +49,19 @@
         <li>Improving responsive design and UI/UX skills</li>
       </ul>
     </div>
-    <div class="mt-8 bg-white rounded-xl shadow p-6">
-      <h2 class="text-xl font-semibold mb-4">🚀 Projects</h2>
-
-      <div class="border rounded-lg p-4 hover:shadow transition">
-        <h3 class="text-lg font-bold">PerryFinder</h3>
+  <h2 class="text-xl font-semibold mb-4">🚀 Projects</h2>
+  <h3 class="text-lg font-bold">PerryFinder</h3>
         <p class="text-gray-600 mt-2">
           A web application that connects users with workers, making it easier to find and offer services.
         </p>
-        <a
+         <a
           href="https://github.com/sakweperry/Perry-f.git"
           target="_blank"
           class="inline-block mt-3 text-blue-600 hover:underline"
         >
           View on GitHub →
         </a>
-      </div>
-    </div>
+   
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
